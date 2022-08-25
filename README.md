@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Faezeh-Alizadeh-Goudarzi
+- 👋 Hi, I’m @Faezeh Alizadeh Goudarzi
 - 👀 I’m interested in developing especially web developing.
 - 🌱 I’m currently learning React.js and Next.js.
 - 📫 You can reach me with my email adress: fa.a.goudarzi@gmail.com
